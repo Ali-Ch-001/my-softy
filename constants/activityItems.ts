@@ -34,7 +34,7 @@ export const activityItems: ActivityItem[] = [
       id: 5,
       name: "pottery",
       image: "/activities/pottery.jpg",
-      description: "Spend a relaxing day in the park with various outdoor activities.",
+      description: "Spend a day in the making beautiful pottery items.",
     },
 
     
